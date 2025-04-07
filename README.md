@@ -1,1 +1,1 @@
-<strong>Дипломный проект находится в Release</strong>
+<strong>Дипломный проект находится в Releases</strong>
